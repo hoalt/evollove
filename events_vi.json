@@ -1,0 +1,82 @@
+{
+   "events":[
+      {
+         "name": "Lễ tình nhân (Valentine)",
+         "anniversary_date": "14/02",
+         "anniversary_lunar_date": null,
+         "anniversary_time": null,
+         "is_reminder_set": null,
+         "repeat_type": null,
+         "note": "Hãy dành trọn ngày hôm nay cho người mình yêu nhé bạn yo!",
+         "path_list": null,
+         "is_using_lunar_date": null,
+         "anniversary_type": null,
+         "priority_level": null
+      },
+      {
+         "name": "Ngày Quốc tế Phụ nữ",
+         "anniversary_date": "08/03",
+         "anniversary_lunar_date": null,
+         "anniversary_time": null,
+         "is_reminder_set": null,
+         "repeat_type": null,
+         "note": "Hoa quà cho phái đẹp của chúng ta thôi nào...",
+         "path_list": null,
+         "is_using_lunar_date": null,
+         "anniversary_type": null,
+         "priority_level": null
+      },
+      {
+         "name": "Ngày Cá tháng Tư",
+         "anniversary_date": "01/04",
+         "anniversary_lunar_date": null,
+         "anniversary_time": null,
+         "is_reminder_set": null,
+         "repeat_type": null,
+         "note": "Trêu nhau nhưng nhớ đừng quá đà bạn nha. Hihi",
+         "path_list": null,
+         "is_using_lunar_date": null,
+         "anniversary_type": null,
+         "priority_level": null
+      },
+      {
+         "name": "Ngày Phụ nữ Việt Nam",
+         "anniversary_date": "20/10",
+         "anniversary_lunar_date": null,
+         "anniversary_time": null,
+         "is_reminder_set": null,
+         "repeat_type": null,
+         "note": "Hãy dành những tình cảm chân thành nhất cho phái đẹp của mình nhé <3",
+         "path_list": null,
+         "is_using_lunar_date": null,
+         "anniversary_type": null,
+         "priority_level": null
+      },
+      {
+         "name": "Ngày Halloween",
+         "anniversary_date": "31/10",
+         "anniversary_lunar_date": null,
+         "anniversary_time": null,
+         "is_reminder_set": null,
+         "repeat_type": null,
+         "note": "Halloween bên nhau thật sự rất thú vị đó ^^!",
+         "path_list": null,
+         "is_using_lunar_date": null,
+         "anniversary_type": null,
+         "priority_level": null
+      },
+      {
+         "name": "Ngày lễ Giáng sinh",
+         "anniversary_date": "24/12",
+         "anniversary_lunar_date": null,
+         "anniversary_time": null,
+         "is_reminder_set": null,
+         "repeat_type": null,
+         "note": "Cùng nhau tạo những bức ảnh thật lung linh bên nhau nào <3",
+         "path_list": null,
+         "is_using_lunar_date": null,
+         "anniversary_type": null,
+         "priority_level": null
+      },
+   ]
+}
