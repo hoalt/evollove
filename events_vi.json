@@ -2,7 +2,7 @@
    "events":[
       {
          "name": "Lễ tình nhân (Valentine)",
-         "anniversary_date": "14/02",
+         "anniversary_date": "02-14",
          "anniversary_lunar_date": null,
          "anniversary_time": null,
          "is_reminder_set": null,
@@ -15,7 +15,7 @@
       },
       {
          "name": "Ngày Quốc tế Phụ nữ",
-         "anniversary_date": "08/03",
+         "anniversary_date": "03-08",
          "anniversary_lunar_date": null,
          "anniversary_time": null,
          "is_reminder_set": null,
@@ -28,7 +28,7 @@
       },
       {
          "name": "Ngày Quốc tế Hạnh phúc",
-         "anniversary_date": "20/03",
+         "anniversary_date": "03-20",
          "anniversary_lunar_date": null,
          "anniversary_time": null,
          "is_reminder_set": null,
@@ -41,7 +41,7 @@
       },
       {
          "name": "Ngày Cá tháng Tư",
-         "anniversary_date": "01/04",
+         "anniversary_date": "04-01",
          "anniversary_lunar_date": null,
          "anniversary_time": null,
          "is_reminder_set": null,
@@ -54,7 +54,7 @@
       },
       {
          "name": "Ngày Phụ nữ Việt Nam",
-         "anniversary_date": "20/10",
+         "anniversary_date": "10-20",
          "anniversary_lunar_date": null,
          "anniversary_time": null,
          "is_reminder_set": null,
@@ -67,7 +67,7 @@
       },
       {
          "name": "Ngày Halloween",
-         "anniversary_date": "31/10",
+         "anniversary_date": "10-31",
          "anniversary_lunar_date": null,
          "anniversary_time": null,
          "is_reminder_set": null,
@@ -80,7 +80,7 @@
       },
       {
          "name": "Ngày lễ Giáng sinh",
-         "anniversary_date": "24/12",
+         "anniversary_date": "12-24",
          "anniversary_lunar_date": null,
          "anniversary_time": null,
          "is_reminder_set": null,
