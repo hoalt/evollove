@@ -7,11 +7,12 @@
          "anniversary_time": null,
          "is_reminder_set": null,
          "repeat_type": null,
-         "note": "Hãy dành trọn ngày hôm nay cho người mình yêu nhé bạn yo!",
+         "note": "Hãy dành trọn ngày hôm nay cho người mình yêu với những đóa hồng, những miếng socola ngọt ngạo nhé các tình yo!",
          "path_list": null,
          "is_using_lunar_date": null,
          "anniversary_type": null,
-         "priority_level": null
+         "priority_level": null,
+         "locale": "vi_VN"
       },
       {
          "name": "Ngày Quốc tế Phụ nữ",
@@ -24,7 +25,8 @@
          "path_list": null,
          "is_using_lunar_date": null,
          "anniversary_type": null,
-         "priority_level": null
+         "priority_level": null,
+         "locale": "vi_VN"
       },
       {
          "name": "Ngày Quốc tế Hạnh phúc",
@@ -37,7 +39,8 @@
          "path_list": null,
          "is_using_lunar_date": null,
          "anniversary_type": null,
-         "priority_level": null
+         "priority_level": null,
+         "locale": "vi_VN"
       },
       {
          "name": "Ngày Cá tháng Tư",
@@ -50,7 +53,8 @@
          "path_list": null,
          "is_using_lunar_date": null,
          "anniversary_type": null,
-         "priority_level": null
+         "priority_level": null,
+         "locale": "vi_VN"
       },
       {
          "name": "Ngày Phụ nữ Việt Nam",
@@ -63,7 +67,8 @@
          "path_list": null,
          "is_using_lunar_date": null,
          "anniversary_type": null,
-         "priority_level": null
+         "priority_level": null,
+         "locale": "vi_VN"
       },
       {
          "name": "Ngày Halloween",
@@ -76,7 +81,8 @@
          "path_list": null,
          "is_using_lunar_date": null,
          "anniversary_type": null,
-         "priority_level": null
+         "priority_level": null,
+         "locale": "vi_VN"
       },
       {
          "name": "Ngày lễ Giáng sinh",
@@ -89,7 +95,107 @@
          "path_list": null,
          "is_using_lunar_date": null,
          "anniversary_type": null,
-         "priority_level": null
+         "priority_level": null,
+         "locale": "vi_VN"
+      },
+
+      {
+         "name": "Valentine's Day",
+         "anniversary_date": "02-14",
+         "anniversary_lunar_date": null,
+         "anniversary_time": null,
+         "is_reminder_set": null,
+         "repeat_type": null,
+         "note": "Let's spend the day with the one you love with roses, sweet chocolate pieces, loves!",
+         "path_list": null,
+         "is_using_lunar_date": null,
+         "anniversary_type": null,
+         "priority_level": null,
+         "locale": "en_EN"
+      },
+      {
+         "name": "International Women's Day",
+         "anniversary_date": "03-08",
+         "anniversary_lunar_date": null,
+         "anniversary_time": null,
+         "is_reminder_set": null,
+         "repeat_type": null,
+         "note": "Flowers for our beautiful ladies...",
+         "path_list": null,
+         "is_using_lunar_date": null,
+         "anniversary_type": null,
+         "priority_level": null,
+         "locale": "en_EN"
+      },
+      {
+         "name": "International Day of Happiness",
+         "anniversary_date": "03-20",
+         "anniversary_lunar_date": null,
+         "anniversary_time": null,
+         "is_reminder_set": null,
+         "repeat_type": null,
+         "note": "Happiness is giving each other love and smiles.",
+         "path_list": null,
+         "is_using_lunar_date": null,
+         "anniversary_type": null,
+         "priority_level": null,
+         "locale": "en_EN"
+      },
+      {
+         "name": "April Fool's day",
+         "anniversary_date": "04-01",
+         "anniversary_lunar_date": null,
+         "anniversary_time": null,
+         "is_reminder_set": null,
+         "repeat_type": null,
+         "note": "Make fun of each other but remember not to overdo it. Hihi",
+         "path_list": null,
+         "is_using_lunar_date": null,
+         "anniversary_type": null,
+         "priority_level": null,
+         "locale": "en_EN"
+      },
+      {
+         "name": "Vietnamese Women's Day",
+         "anniversary_date": "10-20",
+         "anniversary_lunar_date": null,
+         "anniversary_time": null,
+         "is_reminder_set": null,
+         "repeat_type": null,
+         "note": "Please give your most sincere love to your women <3",
+         "path_list": null,
+         "is_using_lunar_date": null,
+         "anniversary_type": null,
+         "priority_level": null,
+         "locale": "en_EN"
+      },
+      {
+         "name": "Halloween Day",
+         "anniversary_date": "10-31",
+         "anniversary_lunar_date": null,
+         "anniversary_time": null,
+         "is_reminder_set": null,
+         "repeat_type": null,
+         "note": "Halloween together is really fun ^^!",
+         "path_list": null,
+         "is_using_lunar_date": null,
+         "anniversary_type": null,
+         "priority_level": null,
+         "locale": "en_EN"
+      },
+      {
+         "name": "Christmas Day",
+         "anniversary_date": "12-24",
+         "anniversary_lunar_date": null,
+         "anniversary_time": null,
+         "is_reminder_set": null,
+         "repeat_type": null,
+         "note": "Let's create sparkling photos together <3",
+         "path_list": null,
+         "is_using_lunar_date": null,
+         "anniversary_type": null,
+         "priority_level": null,
+         "locale": "en_EN"
       }
    ]
 }

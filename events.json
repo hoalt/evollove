@@ -11,7 +11,8 @@
          "path_list": null,
          "is_using_lunar_date": null,
          "anniversary_type": null,
-         "priority_level": null
+         "priority_level": null,
+         "locale": "en_EN"
       },
       {
          "name": "International Women’s Day",
@@ -24,7 +25,8 @@
          "path_list": null,
          "is_using_lunar_date": null,
          "anniversary_type": null,
-         "priority_level": null
+         "priority_level": null,
+         "locale": "en_EN"
       },
       {
          "name": "International Day of Happiness",
@@ -37,7 +39,8 @@
          "path_list": null,
          "is_using_lunar_date": null,
          "anniversary_type": null,
-         "priority_level": null
+         "priority_level": null,
+         "locale": "en_EN"
       },
       {
          "name": "April Fool's day",
@@ -50,7 +53,8 @@
          "path_list": null,
          "is_using_lunar_date": null,
          "anniversary_type": null,
-         "priority_level": null
+         "priority_level": null,
+         "locale": "en_EN"
       },
       {
          "name": "Halloween Day",
@@ -63,7 +67,8 @@
          "path_list": null,
          "is_using_lunar_date": null,
          "anniversary_type": null,
-         "priority_level": null
+         "priority_level": null,
+         "locale": "en_EN"
       },
       {
          "name": "Christmas Day",
@@ -76,7 +81,8 @@
          "path_list": null,
          "is_using_lunar_date": null,
          "anniversary_type": null,
-         "priority_level": null
+         "priority_level": null,
+         "locale": "en_EN"
       }
    ]
 }
