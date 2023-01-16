@@ -2,219 +2,273 @@
    "quotes":[
       {
          "quote":"I saw that you were perfect, and so I loved you. Then I saw that you were not perfect, and I loved you even more.",
-         "author":"Angelita Lim"
+         "author":"Angelita Lim",
+         "locale": "en_US"
       },
       {
          "quote":"You don't marry someone you can live with–you marry someone you cannot live without.",
-         "author":"Unknown"
+         "author":"Unknown",
+         "locale": "en_US"
       },
       {
          "quote":"If I know what love is, it is because of you.",
-         "author":"Hermann Hesse"
+         "author":"Hermann Hesse",
+         "locale": "en_US"
       },
       {
          "quote":"You are, and will always be, my happy place.",
-         "author":"Unknown"
+         "author":"Unknown",
+         "locale": "en_US"
       },
       {
          "quote":"All that you are is all that I'll ever need.",
-         "author":"Ed Sheeran"
+         "author":"Ed Sheeran",
+         "locale": "en_US"
       },
       {
          "quote":"Whatever our souls are made of, his and mine are the same.",
-         "author":"Emily Brontë"
+         "author":"Emily Brontë",
+         "locale": "en_US"
       },
       {
          "quote":"In all the world, there is no heart for me like yours. In all the world, there is no love for you like mine.",
-         "author":"Maya Angelou"
+         "author":"Maya Angelou",
+         "locale": "en_US"
       },
       {
          "quote":"Forever is a measure of time used by people who share an ordinary love. Our extraordinary love is immeasurable... for us, forever just won't do.",
-         "author":"Steve Maraboli"
+         "author":"Steve Maraboli",
+         "locale": "en_US"
       },
       {
          "quote":"To love and be loved is to feel the sun from both sides.",
-         "author":"David Viscott"
+         "author":"David Viscott",
+         "locale": "en_US"
       },
       {
          "quote":"The best love is the kind that awakens the soul; that makes us reach for more, that plants the fire in our hearts and brings peace to our minds. That's what I hope to give you forever.",
-         "author":"Nicholas Sparks"
+         "author":"Nicholas Sparks",
+         "locale": "en_US"
       },
       {
          "quote":"You're nothing short of my everything.",
-         "author":"Ralph Block"
+         "author":"Ralph Block",
+         "locale": "en_US"
       },
       {
          "quote":"I love you straightforwardly, without complexities or pride; so, I love you because I know no other way.",
-         "author":"Pablo Neruda"
+         "author":"Pablo Neruda",
+         "locale": "en_US"
       },
       {
          "quote":"Love is not about how many days, months, or years you have been together. Love is about how much you love each other every single day.",
-         "author":"Unknown"
+         "author":"Unknown",
+         "locale": "en_US"
       },
       {
          "quote":"In case you ever foolishly forget: I am never not thinking of you.",
-         "author":"Virginia Woolf"
+         "author":"Virginia Woolf",
+         "locale": "en_US"
       },
       {
          "quote":"True love doesn't demand a happy ending because it doesn't exist to end. It is to cherish each other's presence for a lifetime.",
-         "author":"Unknown"
+         "author":"Unknown",
+         "locale": "en_US"
       },
       {
          "quote":"Love grows more tremendously full, swift, poignant as the years multiply.",
-         "author":"Zane Grey"
+         "author":"Zane Grey",
+         "locale": "en_US"
       },
       {
          "quote":"Our anniversary is just a momentary celebration, but our marriage is a timeless one.",
-         "author":"Unknown"
+         "author":"Unknown",
+         "locale": "en_US"
       },
       {
          "quote":"It's so great to find that one special person you want to annoy for the rest of your life.",
-         "author":"Rita Rudner"
+         "author":"Rita Rudner",
+         "locale": "en_US"
       },
       {
          "quote":"The best thing to hold onto in life is each other.",
-         "author":"Audrey Hepburn"
+         "author":"Audrey Hepburn",
+         "locale": "en_US"
       },
       {
          "quote":"We loved a love that was more than love.",
-         "author":"Edgar Allen Poe"
+         "author":"Edgar Allen Poe",
+         "locale": "en_US"
       },
       {
          "quote":"I am who I am because of you. You are every reason, every hope, and every dream I've ever had.",
-         "author":"Nicholas Sparks"
+         "author":"Nicholas Sparks",
+         "locale": "en_US"
       },
       {
          "quote":"You are my today and all of my tomorrows.",
-         "author":"Leo Christopher"
+         "author":"Leo Christopher",
+         "locale": "en_US"
       },
       {
          "quote":"There is no more lovely, friendly, and charming relationship, communion, or company than a good marriage.",
-         "author":"Martin Luther"
+         "author":"Martin Luther",
+         "locale": "en_US"
       },
       {
          "quote":"The secret of a happy marriage is finding the right person. You know they're right if you love to be with them all the time.",
-         "author":"Julia Child"
+         "author":"Julia Child",
+         "locale": "en_US"
       },
       {
          "quote":"I want you for always... days, years, eternities.",
-         "author":"Franz Schubert"
+         "author":"Franz Schubert",
+         "locale": "en_US"
       },
       {
          "quote":"If you live to be a hundred, I want to live to be a hundred minus one day, so I never have to live without you.",
-         "author":"A. A. Milne"
+         "author":"A. A. Milne",
+         "locale": "en_US"
       },
       {
          "quote":"I love you, and that's the beginning and end of everything.",
-         "author":"F. Scott Fitzgerald"
+         "author":"F. Scott Fitzgerald",
+         "locale": "en_US"
       },
       {
          "quote":"God proved two things when he brought us together: his genius and his sense of humor.",
-         "author":"Unknown"
+         "author":"Unknown",
+         "locale": "en_US"
       },
       {
          "quote":"I love you much, most beautiful darling, more than anyone on the earth, and I like you better than everything in the sky.",
-         "author":"E. E. Cummings"
+         "author":"E. E. Cummings",
+         "locale": "en_US"
       },
       {
          "quote":"An anniversary is a time to celebrate the joys of today, the memories of yesterday, and the hopes of tomorrow.",
-         "author":"Unknown"
+         "author":"Unknown",
+         "locale": "en_US"
       },
       {
          "quote":"Love is that condition in which the happiness of another person is essential to your own.",
-         "author":"Unknown"
+         "author":"Unknown",
+         "locale": "en_US"
       },
       {
          "quote":"Yours is the light by which my spirit's born: You are my sun, my moon, and all my stars.",
-         "author":"E. E. Cummings"
+         "author":"E. E. Cummings",
+         "locale": "en_US"
       },
       {
          "quote":"My soul and your soul are forever tangled.",
-         "author":"N. R. Hart"
+         "author":"N. R. Hart",
+         "locale": "en_US"
       },
       {
          "quote":"It was love at first sight, at last sight, and at ever and ever sight.",
-         "author":"Vladimir Nabokov"
+         "author":"Vladimir Nabokov",
+         "locale": "en_US"
       },
       {
          "quote":"May we so love as never to have occasion to repent of our love!",
-         "author":"Henry David Thoreau"
+         "author":"Henry David Thoreau",
+         "locale": "en_US"
       },
       {
          "quote":"Comparison is the most dangerous acquaintance love can make.",
-         "author":"Soren Kierkegaard"
+         "author":"Soren Kierkegaard",
+         "locale": "en_US"
       },
       {
          "quote":"In love, as in gluttony, pleasure is a matter of the utmost precision.",
-         "author":"Italo Calvino"
+         "author":"Italo Calvino",
+         "locale": "en_US"
       },
       {
          "quote":"You don’t love a woman because she is beautiful, but she is beautiful because you love her.",
-         "author":"Unknown"
+         "author":"Unknown",
+         "locale": "en_US"
       },
       {
          "quote":"Love will subsist on wonderfully little hope but not altogether without it.",
-         "author":"Walter Scott"
+         "author":"Walter Scott",
+         "locale": "en_US"
       },
       {
          "quote":"What force is more potent than love?",
-         "author":"Igor Stravinsky"
+         "author":"Igor Stravinsky",
+         "locale": "en_US"
       },
       {
          "quote":"Love always brings difficulties, that is true, but the good side of it is that it gives energy.",
-         "author":"Vincent Van Gogh"
+         "author":"Vincent Van Gogh",
+         "locale": "en_US"
       },
       {
          "quote":"If I had a flower for every time I thought of you… I could walk through my garden forever.",
-         "author":"Alfred Tennyson"
+         "author":"Alfred Tennyson",
+         "locale": "en_US"
       },
       {
          "quote":"Life without love is like a tree without blossoms or fruit.",
-         "author":"Khalil Gibran"
+         "author":"Khalil Gibran",
+         "locale": "en_US"
       },
       {
          "quote":"Mong chúng ta có thể yêu thương sao cho không bao giờ phải hối tiếc vì tình yêu của chúng ta.",
-         "author":"Henry David Thoreau"
+         "author":"Henry David Thoreau",
+         "locale": "vi_VN"
       },
       {
          "quote":"Sự so sánh là kẻ nguy hiểm nhất mà tình yêu có thể quen.",
-         "author":"Soren Kierkegaard"
+         "author":"Soren Kierkegaard",
+         "locale": "vi_VN"
       },
       {
          "quote":"Trong tình yêu, cũng như trong sự tham lam, lạc thú là vấn đề cần đến sự chính xác tuyệt đối.",
-         "author":"Italo Calvino"
+         "author":"Italo Calvino",
+         "locale": "vi_VN"
       },
       {
          "quote":"Bạn không yêu người phụ nữ vì nàng đẹp, nhưng nàng đẹp vì bạn yêu nàng.",
-         "author":"Khuyết danh"
+         "author":"Khuyết danh",
+         "locale": "vi_VN"
       },
       {
          "quote":"Tình yêu sẽ tồn tại được chỉ với một chút hy vọng nhỏ nhoi, nhưng sẽ không thể nếu thiếu nó.",
-         "author":"Walter Scott"
+         "author":"Walter Scott",
+         "locale": "vi_VN"
       },
       {
          "quote":"Còn thế lực nào mạnh mẽ hơn tình yêu?",
-         "author":"Igor Stravinsky"
+         "author":"Igor Stravinsky",
+         "locale": "vi_VN"
       },
       {
          "quote":"Tình yêu luôn mang tới khó khăn, đúng vậy, nhưng mặt tốt là nó cũng đem tới sức sống.",
-         "author":"Vincent Van Gogh"
+         "author":"Vincent Van Gogh",
+         "locale": "vi_VN"
       },
       {
          "quote":"Bình tĩnh mà sống, cuộc sống rất ngắn ngủi. Vì vậy hãy sống thật trọn vẹn, chân thành và tử tế!",
-         "author":"BeLove"
+         "author":"BeLove",
+         "locale": "vi_VN"
       },
       {
          "quote":"Hôn nhân là minh chứng cho tình yêu. Đây là cách dễ dàng gắn kết hai con người đến gần nhau hơn.",
-         "author":"Sharon Kendrick"
+         "author":"Sharon Kendrick",
+         "locale": "vi_VN"
       },
       {
          "quote":"Nếu anh có một đóa hoa mỗi lần anh nghĩ về em… Anh có thể bước đi trong khu vườn của mình mãi mãi.",
-         "author":"Alfred Tennyson"
+         "author":"Alfred Tennyson",
+         "locale": "vi_VN"
       },
       {
          "quote":"Cuộc sống thiếu tình yêu giống như cây không thể ra hoa kết trái.",
-         "author":"Khalil Gibran"
+         "author":"Khalil Gibran",
+         "locale": "vi_VN"
       }
    ]
 }
