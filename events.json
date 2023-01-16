@@ -57,20 +57,6 @@
          "locale": "en_US"
       },
       {
-         "name": "Vietnamese Women's Day",
-         "anniversary_date": "10-20",
-         "anniversary_lunar_date": null,
-         "anniversary_time": null,
-         "is_reminder_set": null,
-         "repeat_type": 1,
-         "note": "Please give your most sincere love to your women <3",
-         "path_list": null,
-         "is_using_lunar_date": null,
-         "anniversary_type": null,
-         "priority_level": null,
-         "locale": "en_US"
-      },
-      {
          "name": "Halloween Day",
          "anniversary_date": "10-31",
          "anniversary_lunar_date": null,
